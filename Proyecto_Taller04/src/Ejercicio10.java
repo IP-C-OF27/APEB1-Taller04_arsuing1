@@ -39,5 +39,12 @@ public class Ejercicio10 {
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+Ingrese medida del lado del cuadrado: 8
+Ingrese altura (de los triangulos y rectangulo): 3
+El area del cuadrado es: 64.0
+El area del rectangulo es: 24.0
+El area del triangulo es: 12.0
+El area total del poligono es: 124.0
+BUILD SUCCESSFUL (total time: 10 seconds)
  */
